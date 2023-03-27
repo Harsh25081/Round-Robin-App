@@ -1,0 +1,27 @@
+{
+  "name": "round-robing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "roundRobing.js",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harsh25081/Round-Robin-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "nodemon": "^2.0.21",
+    "yargs": "^17.7.1"
+  },
+  "devDependencies": {
+    "inquirer": "^9.1.5"
+  },
+  "type": "module"
+}
